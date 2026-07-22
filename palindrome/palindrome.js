@@ -21,7 +21,7 @@ if (result === false) {
 } else {
     if (result === true && (numberOfLetters === 0 || numberOfLetters === 1)) {
 
-        console.log(`The word "${word}" is palindrome but the trick work better if you type a word with more than one letter`);
+        console.log(`The word "${word}" is palindrome but the trick works better if you type a word with more than one letter`);
 
     } else {
 
