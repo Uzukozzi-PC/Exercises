@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uzukozzi-PC/exercises.git"
+    "url": "git+https://github.com/Uzukozzi-PC/Exercises.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Uzukozzi-PC/exercises/issues"
+    "url": "https://github.com/Uzukozzi-PC/Exercises/issues"
   },
-  "homepage": "https://github.com/Uzukozzi-PC/exercises#readme"
+  "homepage": "https://github.com/Uzukozzi-PC/Exercises#readme"
 }
